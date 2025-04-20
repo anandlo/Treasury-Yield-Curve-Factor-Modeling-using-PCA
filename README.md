@@ -46,20 +46,14 @@ The data used in this project consists of daily US Treasury constant maturity ra
 
 ## Installation
 
-1.  **Clone the repository:**
-    ```bash
-    git clone <your-repository-url>
-    cd <your-repository-name>
-    ```
-
-2.  **Install required libraries:**
+1.  **Install required libraries:**
     It's recommended to use a virtual environment.
     ```bash
     pip install quandl pandas numpy matplotlib seaborn scikit-learn
     ```
     *(Alternatively, if a `requirements.txt` file is provided: `pip install -r requirements.txt`)*
 
-3.  **Set up Quandl API Key:**
+2.  **Set up Quandl API Key:**
     You need to obtain an API key from [Quandl](https://data.nasdaq.com/sign-up) by registering for a free account. Once you have the key, you will need to insert it into the script where indicated.
 
 ## Usage
