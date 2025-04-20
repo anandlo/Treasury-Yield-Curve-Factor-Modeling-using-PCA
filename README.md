@@ -1,4 +1,3 @@
-```markdown
 # Yield Curve Analysis using Principal Component Analysis (PCA)
 
 ## Overview
@@ -288,4 +287,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgements
 
 This project structure and analysis approach were inspired by the work and examples demonstrated by **alecontuIT**. The data is sourced from FRED via the Quandl API.
-```
